@@ -6,10 +6,14 @@ echo.
 
 :: Check if git is initialized
 IF NOT EXIST ".git" (
-    echo [Error] Git is not initialized. Please run 'git init' and set up your remote repository first.
+    echo [Error] Git is not initialized.
     pause
     exit /b
 )
+
+:: Ensure the remote repository is configured
+git remote remove origin 2>nul
+git remote add origin https://github.com/keshav2232/Bill-name.git
 
 :: Add all changed files
 echo [1/3] Gathering modified files...
@@ -23,7 +27,7 @@ git commit -m "Auto-update: %mydate% %mytime%"
 
 :: Push the changes to GitHub
 echo [3/3] Uploading to live website (GitHub)...
-git push origin main
+git push -u origin main
 
 echo.
 echo ==========================================
