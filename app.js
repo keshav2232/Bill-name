@@ -191,22 +191,19 @@ document.addEventListener('DOMContentLoaded', () => {
           items: currentBillItems
         };
 
-        try {
-          await fetch(GOOGLE_SCRIPT_URL, {
-            method: 'POST',
-            body: JSON.stringify(payload),
-            headers: {
-              'Content-Type': 'text/plain;charset=utf-8',
-            }
-          });
-          showToast('Saved to Cloud successfully!');
-        } catch (error) {
-          console.error('Error saving to cloud:', error);
-          showToast('Saved locally, but failed to sync to cloud.');
-        } finally {
-          saveBtn.textContent = originalText;
-          saveBtn.disabled = false;
-        }
+        // Send request in the background without making the user wait (Fire and Forget)
+        fetch(GOOGLE_SCRIPT_URL, {
+          method: 'POST',
+          body: JSON.stringify(payload),
+          headers: {
+            'Content-Type': 'text/plain;charset=utf-8',
+          }
+        }).catch(error => console.error('Error saving to cloud in background:', error));
+
+        // Immediately show success to the user
+        showToast('Saved to Cloud successfully!');
+        saveBtn.textContent = originalText;
+        saveBtn.disabled = false;
       } else {
         showToast('Cloud saving is not configured yet.');
       }
