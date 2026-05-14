@@ -1,0 +1,980 @@
+{
+  "products": [
+    {
+      "name": "HYDRANT VALVE 160 PCD (202) HEAVY FULL (S.S)",
+      "category": "Hydrant",
+      "price": 2900
+    },
+    {
+      "name": "HYDRANT VALVE 160 PCD (304) HEAVY",
+      "category": "Hydrant",
+      "price": 1800
+    },
+    {
+      "name": "HYDRANT VALVE 160 PCD (HEAVY) 7.750KG TO 8KG",
+      "category": "Hydrant",
+      "price": 1600
+    },
+    {
+      "name": "HYDRANT VALVE 160 PCD (LIGHT)",
+      "category": "Hydrant",
+      "price": 1400
+    },
+    {
+      "name": "HYDRANT VALVE 145 PCD",
+      "category": "Hydrant",
+      "price": 1300
+    },
+    {
+      "name": "2 WAY INLET",
+      "category": "Hydrant",
+      "price": 2000
+    },
+    {
+      "name": "2 WAY INLET",
+      "category": "Hydrant",
+      "price": 1600
+    },
+    {
+      "name": "4 WAY INLET",
+      "category": "Hydrant",
+      "price": 4000
+    },
+    {
+      "name": "BRANCH PIPE (S.S)",
+      "category": "Hydrant",
+      "price": 450
+    },
+    {
+      "name": "BRANCH PIPE 202 (S.S)",
+      "category": "Hydrant",
+      "price": 600
+    },
+    {
+      "name": "BRANCH PIPE (A.L)",
+      "category": "Hydrant",
+      "price": 400
+    },
+    {
+      "name": "H.V ADAPTOR HEAVY",
+      "category": "Hydrant",
+      "price": 500
+    },
+    {
+      "name": "H.V CHAKRI",
+      "category": "Hydrant",
+      "price": 100
+    },
+    {
+      "name": "H.V LUX",
+      "category": "Hydrant",
+      "price": 200
+    },
+    {
+      "name": "H.V ADAPTOR RING + WORKING PART RUBBER",
+      "category": "Hydrant",
+      "price": 20
+    },
+    {
+      "name": "H.V RED CAP",
+      "category": "Hydrant",
+      "price": 30
+    },
+    {
+      "name": "HYDRANT VALVE 160 PCD (304) HEAVY FULL (S.S)",
+      "category": "Hydrant Valve or Branch Pipe Manx Power",
+      "price": 3250
+    },
+    {
+      "name": "BRANCH PIPE 304 (S.S)",
+      "category": "Hydrant Valve or Branch Pipe Manx Power",
+      "price": 1100
+    },
+
+    {
+      "name": "HOSE PIPE 15MTR (S.S) 13 BAR HEAVY COUPLING",
+      "category": "Hose Pipe/RRL",
+      "price": 2500
+    },
+    {
+      "name": "HOSE PIPE 15MTR (S.S) 10 BAR HEAVY COUPLING",
+      "category": "Hose Pipe/RRL",
+      "price": 2100
+    },
+    {
+      "name": "HOSE PIPE 15MTR (S.S) 10 BAR REGULAR COUPLING",
+      "category": "Hose Pipe/RRL",
+      "price": 1900
+    },
+    {
+      "name": "HOSE PIPE 15MTR (S.S) 8 BAR",
+      "category": "Hose Pipe/RRL",
+      "price": 1800
+    },
+    {
+      "name": "HOSE PIPE 15MTR TYPE B RED RUBBER ISI WITH CERTIFICATE",
+      "category": "Hose Pipe/RRL",
+      "price": 5400
+    },
+    {
+      "name": "HOSE PIPE 15MTR ORIGINAL CANVAS PIPE (ISI)",
+      "category": "Hose Pipe/RRL",
+      "price": 3300
+    },
+    {
+      "name": "HOSE REEL 30MTR 3/4 SHUT UP NOZZLE (S.S)",
+      "category": "Hose Reel",
+      "price": 2100
+    },
+    {
+      "name": "HOSE REEL 30MTR 3/4 SHUT UP NOZZLE (GUNMETAL)",
+      "category": "Hose Reel",
+      "price": 2000
+    },
+    {
+      "name": "HOSE REEL 30MTR 1 INCH BOMBY (TYPE) SHUT NOZZLE S.S",
+      "category": "Hose Reel",
+      "price": 2700
+    },
+    {
+      "name": "HOSE REEL 30MTR 1 INCH AMDABAD (TYPE) SHUT NOZZLE S.S",
+      "category": "Hose Reel",
+      "price": 2800
+    },
+    {
+      "name": "HOSE REEL DRUM ONLY 3/4",
+      "category": "Hose Reel",
+      "price": 1150
+    },
+    {
+      "name": "HOSE REEL DRUM ONLY 1 INCH",
+      "category": "Hose Reel",
+      "price": 1200
+    },
+    {
+      "name": "HOSE REEL DRUM ONLY 1 INCH AMDABAD TYPE",
+      "category": "Hose Reel",
+      "price": 1500
+    },
+    {
+      "name": "3/4 SET UP NOZZLE (PVC)",
+      "category": "Shut Up Nozzle",
+      "price": 75
+    },
+    {
+      "name": "3/4 SET UP NOZZLE (S.S)",
+      "category": "Shut Up Nozzle",
+      "price": 225
+    },
+    {
+      "name": "1 INCH SET UP NOZZLE (SS)",
+      "category": "Shut Up Nozzle",
+      "price": 350
+    },
+    {
+      "name": "DOUBLE DOOR HOSE BOX (MS)",
+      "category": "Hose Box",
+      "price": 1600
+    },
+    {
+      "name": "HOSE BOX LASER CUT",
+      "category": "Hose Box",
+      "price": 600
+    },
+    {
+      "name": "HOSE BOX MS",
+      "category": "Hose Box",
+      "price": 550
+    },
+    {
+      "name": "HOSE BOX (FRP)",
+      "category": "Hose Box",
+      "price": 1100
+    },
+    {
+      "name": "DOUBLE DOOR HOSE BOX (FRP)",
+      "category": "Hose Box",
+      "price": 2200
+    },
+      {
+      "name": "FLEXIBLE SPRINKLER HOSE 700MM",
+      "category": "Flexible Sprinkler Hose",
+      "price": 425
+    },
+    {
+      "name": "FLEXIBLE SPRINKLER HOSE 1000MM (UL)",
+      "category": "Flexible Sprinkler Hose",
+      "price": 475
+    },
+    {
+      "name": "FLEXIBLE SPRINKLER HOSE 1200MM (UL)",
+      "category": "Flexible Sprinkler Hose",
+      "price": 525
+    },
+    {
+      "name": "FLEXIBLE SPRINKLER HOSE 1500MM (UL)",
+      "category": "Flexible Sprinkler Hose",
+      "price": 600
+    },
+    {
+      "name": "FLEXIBLE SPRINKLER HOSE 1800MM",
+      "category": "Flexible Sprinkler Hose",
+      "price": 650
+    },
+    {
+      "name": "SPRINKLER ZINC REGULAR",
+      "category": "Sprinkler",
+      "material": "Zinc",
+      "price": 40
+    },
+    {
+      "name": "SPRINKLER ZINC UP RIGHT",
+      "category": "Sprinkler",
+      "material": "Zinc",
+      "price": 45
+    },
+    {
+      "name": "SPRINKLER ZINC SIDE",
+      "category": "Sprinkler",
+      "material": "Zinc",
+      "price": 45
+    },
+    {
+      "name": "SPRINKLER BRASS",
+      "category": "Sprinkler Brass",
+      "material": "Brass",
+      "price": 75
+    },
+    {
+      "name": "SPRINKLER BRASS UP RIGHT",
+      "category": "Sprinkler Brass",
+      "material": "Brass",
+      "price": 80
+    },
+    {
+      "name": "SPRINKLER BRASS SIDE",
+      "category": "Sprinkler Brass",
+      "material": "Brass",
+      "price": 80
+    },
+     {
+      "name": "1/2\" MS ELBOW ISI",
+      "category": "Socket (Coupling)",
+      "price": 46
+    },
+    {
+      "name": "3/8\" MS COUPLING HEAVY",
+      "category": "Socket (Coupling)",
+      "price": 15
+    },
+    {
+      "name": "1/4\" MS COUPLING HEAVY",
+      "category": "Socket (Coupling)",
+      "price": 10
+    },
+    {
+      "name": "1/2\" MS COUPLING (REGULAR)",
+      "category": "Socket (Coupling)",
+      "price": 10
+    },
+    {
+      "name": "1/2\" MS COUPLING (HEAVY)",
+      "category": "Socket (Coupling)",
+      "price": 15
+    },
+    {
+      "name": "1/2\" MS COUPLING ISI (HEAVY)",
+      "category": "Socket (Coupling)",
+      "price": 20
+    },
+    {
+      "name": "1\" MS COUPLING REGULAR",
+      "category": "Socket (Coupling)",
+      "price": 30
+    },
+    {
+      "name": "1\" MS COUPLING HEAVY ISI",
+      "category": "Socket (Coupling)",
+      "price": 35
+    },
+      {
+      "name": "1.5 INCH KARTAR BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kartar",
+      "price": 800
+    },
+    {
+      "name": "2.5 INCH KARTAR BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kartar",
+      "price": 1050
+    },
+    {
+      "name": "2 INCH KARTAR BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kartar",
+      "price": 900
+    },
+    {
+      "name": "3 INCH KARTAR BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kartar",
+      "price": 1150
+    },
+    {
+      "name": "4 INCH KARTAR BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kartar",
+      "price": 1400
+    },
+    {
+      "name": "6 INCH KARTAR BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kartar",
+      "price": 2000
+    },
+    {
+      "name": "4 INCH NRV VALVE",
+      "category": "NRV Valve (CI) - Kartar Single Plate",
+      "price": 1100
+    },
+    {
+      "name": "3 INCH NRV VALVE",
+      "category": "NRV Valve (CI) - Kartar Single Plate",
+      "price": 1050
+    },
+    {
+      "name": "6 INCH NRV VALVE",
+      "category": "NRV Valve (CI) - Kartar Single Plate",
+      "price": 2450
+    },
+    {
+      "name": "6 INCH NRV VALVE DUAL PLATE (CI)",
+      "category": "NRV Dual Plate Valve - Kartar",
+      "price": 3300
+    },
+    {
+      "name": "4 INCH NRV VALVE DUAL PLATE (S.S)",
+      "category": "NRV Dual Plate Valve - Kartar",
+      "price": 2300
+    },
+    {
+      "name": "4 INCH NRV VALVE DUAL PLATE (CI)",
+      "category": "NRV Dual Plate Valve - Kartar",
+      "price": 1850
+    },
+    {
+      "name": "FIXABLE PIPR 1000MM KARTAR",
+      "category": "NRV Dual Plate Valve - Kartar",
+      "price": 500
+    },
+    {
+      "name": "4 INCH BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kranti & NRV",
+      "price": 1575
+    },
+    {
+      "name": "3 INCH BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI) - Kranti & NRV",
+      "price": 1300
+    },
+    {
+      "name": "3 INCH NRV VALVE DUAL PLATE",
+      "category": "Butterfly Valve (CI) - Kranti & NRV",
+      "price": 1550
+    },
+    {
+      "name": "1.5 INCH NRV VALVE (KRANTI)",
+      "category": "Butterfly Valve (CI) - Kranti & NRV",
+      "price": 800
+    },
+    {
+      "name": "4 INCH NRV SINGLE PLATE (S.S)",
+      "category": "NRV Valve",
+      "price": 1150
+    },
+     {
+      "name": "1.5 INCH BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI)",
+      "price": 500
+    },
+    {
+      "name": "2 INCH BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI)",
+      "price": 550
+    },
+    {
+      "name": "2.5 INCH BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI)",
+      "price": 650
+    },
+    {
+      "name": "3 INCH BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI)",
+      "price": 750
+    },
+    {
+      "name": "4 INCH BUTTERFLY VALVE",
+      "category": "Butterfly Valve (CI)",
+      "price": 1000
+    },
+    {
+      "name": "2 INCH NRV VALVE",
+      "category": "NRV Valve Categories (CI)",
+      "price": 400
+    },
+    {
+      "name": "2.5 INCH NRV VALVE",
+      "category": "NRV Valve Categories (CI)",
+      "price": 500
+    },
+    {
+      "name": "3 INCH NRV VALVE",
+      "category": "NRV Valve Categories (CI)",
+      "price": 550
+    },
+    {
+      "name": "4 INCH NRV VALVE",
+      "category": "NRV Valve Categories (CI)",
+      "price": 800
+    },
+    {
+      "name": "4 INCH NRV VALVE",
+      "category": "NRV Valve Categories (CI)",
+      "price": 900
+    },
+     {
+      "name": "4 INCH CI FOOT VALVE (CI)",
+      "category": "Foot Valve (Nipple)",
+      "price": 850
+    },
+    {
+      "name": "3 INCH CI FOOT VALVE (CI)",
+      "category": "Foot Valve (Nipple)",
+      "price": 650
+    },
+    {
+      "name": "6 INCH KARTAR FOOT VALVE",
+      "category": "Foot Valve (CI) - Kartar",
+      "price": 9000
+    },
+    {
+      "name": "4 INCH KARTAR FOOT VALVE",
+      "category": "Foot Valve (CI) - Kartar",
+      "price": 4200
+    },
+    {
+      "name": "3 INCH KARTAR FOOT VALVE",
+      "category": "Foot Valve (CI) - Kartar",
+      "price": 3500
+    },
+    {
+      "name": "4 INCH Y TYPE STRAINERS",
+      "category": "Strainers",
+      "price": 3200
+    },
+    {
+      "name": "4 INCH CI FOOT VALVE",
+      "category": "Foot Valve (CI) - Normex",
+      "price": 5700
+    },
+    {
+      "name": "2 INCH NRV VALVE DUAL PLATE (KARTAR)",
+      "category": "NRV Valve Dual Plate (CI)",
+      "price": 900
+    },
+    {
+      "name": "3 INCH NRV VALVE DUAL PLATE (KARTAR)",
+      "category": "NRV Valve Dual Plate (CI)",
+      "price": 1350
+    },
+    {
+      "name": "4 INCH NRV VALVE DUAL PLATE (SSM)",
+      "category": "NRV Valve Dual Plate (CI)",
+      "price": 1550
+    },
+     {
+      "name": "6/4 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 240
+    },
+    {
+      "name": "6/3 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 250
+    },
+    {
+      "name": "6/2.5 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 300
+    },
+    {
+      "name": "6/2 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 350
+    },
+    {
+      "name": "4/3 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 125
+    },
+    {
+      "name": "4/2.50 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 110
+    },
+    {
+      "name": "4/2 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 200
+    },
+    {
+      "name": "4/1.50 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 225
+    },
+    {
+      "name": "4/1 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 250
+    },
+    {
+      "name": "3/2.50 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 70
+    },
+    {
+      "name": "3/2 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 70
+    },
+    {
+      "name": "3/1.50 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 85
+    },
+    {
+      "name": "3/1 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 125
+    },
+    {
+      "name": "3/1.25 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 160
+    },
+    {
+      "name": "2.50/2 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 60
+    },
+    {
+      "name": "2.50/1.5 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 60
+    },
+    {
+      "name": "2.50/1 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 110
+    },
+    {
+      "name": "2/1.50 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 40
+    },
+    {
+      "name": "2/1.25 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 50
+    },
+    {
+      "name": "2/1 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 45
+    },
+    {
+      "name": "1.50/1.25 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 30
+    },
+    {
+      "name": "1.50/1 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 30
+    },
+    {
+      "name": "1.25/1 SOCKET",
+      "category": "Reducer Categories - C Class (Heavy)",
+      "price": 25
+    },
+     {
+      "name": "3 INCH GI ELBOW ERW B",
+      "category": "Elbow Categories - B Class",
+      "price": 125
+    },
+    {
+      "name": "4 INCH GI ELBOW ERW B",
+      "category": "Elbow Categories - B Class",
+      "price": 215
+    },
+    {
+      "name": "6 INCH GI ELBOW ERW B",
+      "category": "Elbow Categories - B Class",
+      "price": 465
+    },
+    {
+      "name": "1 INCH GI ELBOW ERW C",
+      "category": "Elbow Categories - C Class",
+      "price": 25
+    },
+    {
+      "name": "1.25 INCH GI ELBOW ERW C",
+      "category": "Elbow Categories - C Class",
+      "price": 35
+    },
+    {
+      "name": "1.5 INCH GI ELBOW ERW C",
+      "category": "Elbow Categories - C Class",
+      "price": 45
+    },
+    {
+      "name": "2 INCH GI ELBOW ERW C",
+      "category": "Elbow Categories - C Class",
+      "price": 60
+    },
+    {
+      "name": "2.5 INCH GI ELBOW ERW C",
+      "category": "Elbow Categories - C Class",
+      "price": 110
+    },
+    {
+      "name": "3 INCH GI ELBOW ERW C",
+      "category": "Elbow Categories - C Class",
+      "price": 150
+    },
+    {
+      "name": "4 INCH GI ELBOW ERW C",
+      "category": "Elbow Categories - C Class",
+      "price": 270
+    },
+      {
+      "name": "1 INCH FLANGE",
+      "category": "Flange Categories",
+      "price": 60
+    },
+    {
+      "name": "1.5 INCH FLANGE",
+      "category": "Flange Categories",
+      "price": 75
+    },
+    {
+      "name": "2 INCH FLANGE",
+      "category": "Flange Categories",
+      "price": 105
+    },
+    {
+      "name": "2.5 INCH FLANGE",
+      "category": "Flange Categories",
+      "price": 115
+    },
+    {
+      "name": "3 INCH FLANGE",
+      "category": "Flange Categories",
+      "price": 125
+    },
+    {
+      "name": "3 INCH FLANGE (160 PCD)",
+      "category": "Flange Categories",
+      "price": 150
+    },
+    {
+      "name": "4 INCH FLANGE",
+      "category": "Flange Categories",
+      "price": 150
+    },
+    {
+      "name": "6 INCH FLANGE",
+      "category": "Flange Categories",
+      "price": 225
+    },
+    {
+      "name": "6 INCH RUBBER PACKING",
+      "category": "Rubber Packing",
+      "price": 30
+    },
+    {
+      "name": "4 INCH RUBBER PACKING",
+      "category": "Rubber Packing",
+      "price": 20
+    },
+    {
+      "name": "3 INCH RUBBER PACKING",
+      "category": "Rubber Packing",
+      "price": 20
+    },
+    {
+      "name": "3 INCH RUBBER PACKING ISI",
+      "category": "Rubber Packing",
+      "price": 20
+    },
+    {
+      "name": "2 INCH RUBBER PACKING",
+      "category": "Rubber Packing",
+      "price": 20
+    },
+    {
+      "name": "1.5 INCH RUBBER PACKING",
+      "category": "Rubber Packing",
+      "price": 20
+    },
+      {
+      "name": "6 INCH U CLAMP",
+      "category": "U Clamp",
+      "price": 20
+    },
+    {
+      "name": "4 INCH U CLAMP",
+      "category": "U Clamp",
+      "price": 15
+    },
+    {
+      "name": "3 INCH U CLAMP",
+      "category": "U Clamp",
+      "price": 12
+    },
+    {
+      "name": "2 INCH U CLAMP",
+      "category": "U Clamp",
+      "price": 10
+    },
+    {
+      "name": "6 INCH PATTI CLAMP",
+      "category": "Patti Clamp / Chilly Clamp",
+      "price": 15
+    },
+    {
+      "name": "4 INCH CLAMP",
+      "category": "Patti Clamp / Chilly Clamp",
+      "price": 14
+    },
+    {
+      "name": "3 INCH CLAMP",
+      "category": "Patti Clamp / Chilly Clamp",
+      "price": 12
+    },
+    {
+      "name": "2.5 INCH CLAMP",
+      "category": "Patti Clamp / Chilly Clamp",
+      "price": 10
+    },
+    {
+      "name": "2 INCH CLAMP",
+      "category": "Patti Clamp / Chilly Clamp",
+      "price": 9
+    },
+    {
+      "name": "1.5 INCH CLAMP",
+      "category": "Patti Clamp / Chilly Clamp",
+      "price": 8
+    },
+    {
+      "name": "1 INCH CLAMP",
+      "category": "Patti Clamp / Chilly Clamp",
+      "price": 7
+    },
+    {
+      "name": "4 INCH 6 NIPPLE",
+      "category": "Nipple",
+      "price": 160
+    },
+    {
+      "name": "3 INCH 6 NIPPLE",
+      "category": "Nipple",
+      "price": 120
+    },
+    {
+      "name": "2 INCH 6 NIPPLE",
+      "category": "Nipple",
+      "price": 60
+    },
+    {
+      "name": "1.5 INCH 6 NIPPLE",
+      "category": "Nipple",
+      "price": 55
+    },
+    {
+      "name": "1 INCH 6 NIPPLE",
+      "category": "Nipple",
+      "price": 30
+    },
+    {
+      "name": "3/4 INCH 6 NIPPLE",
+      "category": "Nipple",
+      "price": 25
+    },
+    {
+      "name": "1/2 INCH 2 NIPPLE",
+      "category": "Nipple",
+      "price": 12
+    },
+     {
+      "name": "PRESSURE SWITCH",
+      "category": "Pressure Equipment",
+      "price": 900
+    },
+    {
+      "name": "PRESSURE GAUGE",
+      "category": "Pressure Equipment",
+      "price": 600
+    },
+    {
+      "name": "AIR RELEASE VALVE",
+      "category": "Pressure Equipment",
+      "price": 500
+    },
+     {
+      "name": "MCP",
+      "category": "Fire Alarm",
+      "price": 110
+    },
+    {
+      "name": "HOOTER",
+      "category": "Fire Alarm",
+      "price": 150
+    },
+    {
+      "name": "SMOKE DETECTOR",
+      "category": "Fire Alarm",
+      "price": 250
+    },
+    {
+      "name": "SMOKE DETECTOR BATTERY",
+      "category": "Fire Alarm",
+      "price": 450
+    },
+    {
+      "name": "SMOKE DETECTOR HEAT",
+      "category": "Fire Alarm",
+      "price": 450
+    },
+    {
+      "name": "TWO ZONE PANEL",
+      "category": "Fire Alarm",
+      "price": 1700
+    },
+    {
+      "name": "FOUR ZONE PANEL",
+      "category": "Fire Alarm",
+      "price": 1900
+    },
+    {
+      "name": "EIGHT ZONE PANEL",
+      "category": "Fire Alarm",
+      "price": 4000
+    },
+    {
+      "name": "16 ZONE PANEL",
+      "category": "Fire Alarm",
+      "price": 8000
+    },
+    {
+      "name": "MCP + HOOTER COMBO",
+      "category": "Fire Alarm",
+      "price": 600
+    },
+    {
+      "name": "EMERGENCY LIGHT (BIS)",
+      "category": "Fire Alarm",
+      "price": 2500
+    },
+    {
+      "name": "1/2 KM SIREN",
+      "category": "Siren",
+      "price": 1600
+    },
+    {
+      "name": "1 KM SIREN",
+      "category": "Siren",
+      "price": 2000
+    },
+    {
+      "name": "2 KM SIREN",
+      "category": "Siren",
+      "price": 4000
+    },
+    {
+      "name": "WIRE CABLE 1MM 2 CORE 9 TAAR",
+      "category": "Wire Cable",
+      "price": 1300
+    },
+    {
+      "name": "WIRE CABLE 1MM 2 CORE 14 TAAR",
+      "category": "Wire Cable",
+      "price": 1600
+    },
+    {
+      "name": "WIRE CABLE 1.5MM 2 CORE",
+      "category": "Wire Cable",
+      "price": 2300
+    },
+    {
+      "name": "WIRE CABLE 2.5MM 3 CORE",
+      "category": "Wire Cable",
+      "price": 60,
+      "unit": "MTR"
+    },
+    {
+      "name": "WIRE CABLE 4MM 4 CORE",
+      "category": "Wire Cable",
+      "price": 150,
+      "unit": "MTR"
+    },
+     {
+      "name": "FIRE BUCKET",
+      "category": "Fire Bucket with Stand",
+      "price": 150
+    },
+    {
+      "name": "FIRE STAND WITH CANOPY",
+      "category": "Fire Bucket with Stand",
+      "price": 1150
+    },
+    {
+      "name": "CO2 FLOOR STAND",
+      "category": "Fire Bucket with Stand",
+      "price": 300
+    },
+    {
+      "name": "ABC FLOOR STAND",
+      "category": "Fire Bucket with Stand",
+      "price": 275
+    },
+    {
+      "name": "FIRE BUCKET WITH STAND CANOPY SET FULL",
+      "category": "Fire Bucket with Stand",
+      "price": 1750
+    },
+    {
+      "name": "3/4 BALL VALVE WITH HOSE COLLER",
+      "category": "Ball Valve",
+      "price": 350
+    },
+    {
+      "name": "1 INCH BALL VALVE WITH HOSE COLLER",
+      "category": "Ball Valve",
+      "price": 400
+    },
+     {
+      "name": "DOUBLE DOOR HOSE BOX (FRP)",
+      "category": "Hose Box",
+      "material": "FRP",
+      "price": 2200,
+      "size": "900 x 800 x 250 mm",
+      "capacity": "Suitable for 2 Nos. 30 Mtr Hose & Nozzle"
+    },
+    {
+      "name": "SINGLE DOOR HOSE BOX",
+      "category": "Hose Box",
+      "material": "FRP",
+      "price": 1100,
+      "size": "450 x 600 x 250 mm",
+      "capacity": "Suitable for 1 No. 15 Mtr Hose & Nozzle"
+    }
+  ]
+}
+  
