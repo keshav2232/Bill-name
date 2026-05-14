@@ -15,6 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const itemsList = document.getElementById('items-list');
   const grandTotalEl = document.getElementById('grand-total');
 
+  const saveBtn = document.getElementById('save-btn');
   const printBtn = document.getElementById('print-btn');
   const clearBtn = document.getElementById('clear-btn');
   const docDate = document.getElementById('doc-date');
@@ -169,19 +170,18 @@ document.addEventListener('DOMContentLoaded', () => {
       }
     });
 
-    // Print & Save to Cloud
-    printBtn.addEventListener('click', async () => {
+    // Save to Cloud
+    saveBtn.addEventListener('click', async () => {
       if (currentBillItems.length === 0) {
         showToast('Please add at least one item before saving.');
         return;
       }
 
-      const originalText = printBtn.textContent;
+      const originalText = saveBtn.textContent;
 
-      // If URL is set, try to save to Google Sheets first
       if (GOOGLE_SCRIPT_URL && GOOGLE_SCRIPT_URL !== "YOUR_GOOGLE_SCRIPT_WEB_APP_URL_HERE") {
-        printBtn.textContent = 'Saving...';
-        printBtn.disabled = true;
+        saveBtn.textContent = 'Saving...';
+        saveBtn.disabled = true;
 
         const payload = {
           date: docDate.value,
@@ -192,9 +192,6 @@ document.addEventListener('DOMContentLoaded', () => {
         };
 
         try {
-          // Google Apps script requires mode: 'no-cors' sometimes if not configured correctly, 
-          // but we want to know if it succeeded. For standard web apps, a simple POST works 
-          // if CORS is enabled in the Apps script (which we handled via doOptions).
           await fetch(GOOGLE_SCRIPT_URL, {
             method: 'POST',
             body: JSON.stringify(payload),
@@ -207,11 +204,16 @@ document.addEventListener('DOMContentLoaded', () => {
           console.error('Error saving to cloud:', error);
           showToast('Saved locally, but failed to sync to cloud.');
         } finally {
-          printBtn.textContent = originalText;
-          printBtn.disabled = false;
+          saveBtn.textContent = originalText;
+          saveBtn.disabled = false;
         }
+      } else {
+        showToast('Cloud saving is not configured yet.');
       }
+    });
 
+    // Print Bill
+    printBtn.addEventListener('click', () => {
       window.print();
     });
 
